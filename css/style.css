@@ -19,7 +19,7 @@
 .menu-title{
     color: rgb(73, 70, 224);
 }
-@media (max-width:575px){
+@media (max-width:767px){
     #nav-list{
         visibility: visible;
     }
