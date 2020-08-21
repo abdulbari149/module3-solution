@@ -11,12 +11,11 @@
     font-size: 1.08rem;
 }
 #menu_items .col{
-    height: 150vh;
+    height: 200vh;
 }
 #nav-list{
     visibility: hidden;
 }
-
 .menu-title{
     color: rgb(73, 70, 224);
 }
